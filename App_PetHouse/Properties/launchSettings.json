@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "App_PetHouse": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}

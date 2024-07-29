@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\app_pethouse\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|c:\\users\\t-gamer\\desktop\\andr\u00E9\\faculdade\\mat\u00E9rias\\trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\api (web services)\\app e site\\app_pethouse\\app_pethouse\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D188E7D4-12CE-401A-8342-C788A453C0C3}|App_PetHouse\\App_PetHouse.csproj|solutionrelative:app_pethouse\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Home.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Home.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Home.cs [Projeto]",
+              "RelativeToolTip": "App_PetHouse\\Home.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:25:28.273Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Clientes.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Clientes.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Clientes.cs",
+              "RelativeToolTip": "App_PetHouse\\Clientes.cs",
+              "ViewState": "AQIAAJABAAAAAAAAAAAAAKMBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:23:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Clientes.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Clientes.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Clientes.cs [Projeto]",
+              "RelativeToolTip": "App_PetHouse\\Clientes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:23:30.078Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Estoque.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Estoque.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Estoque.cs",
+              "RelativeToolTip": "App_PetHouse\\Estoque.cs",
+              "ViewState": "AQIAALIBAAAAAAAAAAAAAMEBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:21:48.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Estoque.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Estoque.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Estoque.cs [Projeto]",
+              "RelativeToolTip": "App_PetHouse\\Estoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:21:47.005Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Administrativo.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Administrativo.cs",
+              "RelativeToolTip": "App_PetHouse\\Administrativo.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAYwGcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:19:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrativo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Administrativo.cs",
+              "RelativeDocumentMoniker": "App_PetHouse\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\Andr\u00E9\\Faculdade\\Mat\u00E9rias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\Administrativo.cs [Projeto]",
+              "RelativeToolTip": "App_PetHouse\\Administrativo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:18:59.077Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

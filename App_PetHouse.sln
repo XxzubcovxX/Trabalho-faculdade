@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App_PetHouse", "App_PetHouse\App_PetHouse.csproj", "{D188E7D4-12CE-401A-8342-C788A453C0C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{5A65181A-74EE-4124-89F9-D2BAD3697AA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{799A117D-7F61-4F36-9DBD-3CA3838A01A5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D188E7D4-12CE-401A-8342-C788A453C0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D188E7D4-12CE-401A-8342-C788A453C0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D188E7D4-12CE-401A-8342-C788A453C0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D188E7D4-12CE-401A-8342-C788A453C0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0ACD2C3-9771-448D-8E35-72A3BA32E593}
+	EndGlobalSection
+EndGlobal

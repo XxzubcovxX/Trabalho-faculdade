@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "q8TAKK6UYFQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T-GAMER\\Desktop\\André\\Faculdade\\Matérias\\Trabalhos\\projetos integradores e sprints\\projetos integradores e sprints\\API (web services)\\App e site\\App_PetHouse\\App_PetHouse\\App_PetHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
